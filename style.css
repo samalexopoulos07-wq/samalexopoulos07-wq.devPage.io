@@ -1,0 +1,19 @@
+body {
+    background-color:gainsboro;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: x-large;
+    text-align: center;
+}
+li {
+    font-size: large;
+}
